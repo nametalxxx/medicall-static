@@ -1,9 +1,9 @@
 1:"$Sreact.fragment"
-2:I[34480,["/_next/static/chunks/d1fa2b76ccff1a32.js","/_next/static/chunks/38a41e1c35c0815f.js"],"HeroSection"]
-3:I[97890,["/_next/static/chunks/d1fa2b76ccff1a32.js","/_next/static/chunks/38a41e1c35c0815f.js"],"CategoriesSection"]
-4:I[54861,["/_next/static/chunks/d1fa2b76ccff1a32.js","/_next/static/chunks/38a41e1c35c0815f.js"],"FeaturedProducts"]
-5:I[6878,["/_next/static/chunks/d1fa2b76ccff1a32.js","/_next/static/chunks/38a41e1c35c0815f.js"],"PromoBanner"]
-6:I[64335,["/_next/static/chunks/172948b9be520a3e.js","/_next/static/chunks/535a563066e61c8a.js"],"OutletBoundary"]
+2:I[34480,["/medicall-static/_next/static/chunks/d1fa2b76ccff1a32.js","/medicall-static/_next/static/chunks/76f14bc2981a36db.js"],"HeroSection"]
+3:I[97890,["/medicall-static/_next/static/chunks/d1fa2b76ccff1a32.js","/medicall-static/_next/static/chunks/76f14bc2981a36db.js"],"CategoriesSection"]
+4:I[54861,["/medicall-static/_next/static/chunks/d1fa2b76ccff1a32.js","/medicall-static/_next/static/chunks/76f14bc2981a36db.js"],"FeaturedProducts"]
+5:I[6878,["/medicall-static/_next/static/chunks/d1fa2b76ccff1a32.js","/medicall-static/_next/static/chunks/76f14bc2981a36db.js"],"PromoBanner"]
+6:I[64335,["/medicall-static/_next/static/chunks/172948b9be520a3e.js","/medicall-static/_next/static/chunks/535a563066e61c8a.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-0:{"buildId":"LJItUrxwWSNBf3uQTANGQ","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen transition-colors","children":[["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/38a41e1c35c0815f.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"MtBNVjFmdNb9LCyOvXZyC","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen transition-colors","children":[["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{}]]}],[["$","script","script-0",{"src":"/medicall-static/_next/static/chunks/76f14bc2981a36db.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
 8:null
