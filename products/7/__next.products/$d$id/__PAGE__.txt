@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[42705,["/_next/static/chunks/d1fa2b76ccff1a32.js","/_next/static/chunks/4b2b22f4938826da.js"],"ProductView"]
+3:I[64335,["/_next/static/chunks/172948b9be520a3e.js","/_next/static/chunks/535a563066e61c8a.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"QysRA43cE4W1D-CIm3cI8","rsc":["$","$1","c",{"children":[["$","$L2",null,{"product":{"id":"7","name":"پالس اکسیمتر انگشتی","description":"دستگاه اندازه گیری سطح اکسیژن خون و ضربان قلب با دقت بالا و نمایشگر OLED.","price":420000,"originalPrice":550000,"image":"https://plus.unsplash.com/premium_photo-1672073399788-4dedc7b8888e?w=500&h=500&fit=crop","category":"تجهیزات مانیتورینگ","rating":4.4,"reviewCount":203,"features":["اندازه گیری SPO2","ضربان قلب","نمایشگر OLED","باتری لیتیوم","سبک وزن"],"isBestseller":true,"specifications":{"brand":"Zacurate","model":"Pro Series 500DL","warranty":"1 سال","battery":"2x AAA","weight":"56 گرم"}},"relatedProducts":[]}],[["$","script","script-0",{"src":"/_next/static/chunks/4b2b22f4938826da.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null
