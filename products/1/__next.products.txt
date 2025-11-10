@@ -1,4 +1,4 @@
 1:"$Sreact.fragment"
 2:I[19579,["/medicall-static/_next/static/chunks/172948b9be520a3e.js","/medicall-static/_next/static/chunks/535a563066e61c8a.js"],"default"]
 3:I[95694,["/medicall-static/_next/static/chunks/172948b9be520a3e.js","/medicall-static/_next/static/chunks/535a563066e61c8a.js"],"default"]
-0:{"buildId":"MtBNVjFmdNb9LCyOvXZyC","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"fKMZLsrLLmwtA4Fo2ydoh","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
